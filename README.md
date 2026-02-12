@@ -48,7 +48,9 @@ Researched and compared different Tableau versions.
 Created a dashboard including:
 
 - Bar chart showing percentage change by industry  
-- UK map visualising key city locations impacted  
+- UK map visualising key city locations impacted
+
+![alt text](images/emsi.png)  
 
 ### Skills Demonstrated
 - Data visualisation  
@@ -61,6 +63,7 @@ Created a dashboard including:
 # 🎵 Spotify Data Analysis
 
 Conducted trend analysis using the Spotify dataset.
+![alt text](images/spotify.png)  
 
 ### Key Findings
 - Rock music tracks cluster in higher energy range  
@@ -79,6 +82,9 @@ Conducted trend analysis using the Spotify dataset.
 # 🏥 Health Data Analysis
 
 Analysed health dataset to identify trends.
+
+![alt text](images/health.png)  
+
 
 ### Key Findings
 - European countries show higher life expectancy  
